@@ -1,7 +1,7 @@
 ## Hi 别来无恙啊 👋
 
 👩‍💻前往 瓜皮龙工作室 的朋友请访问 https://github.com/Meloong-Git \
-🌈寻找 Plaiun Craft Launcher 的朋友请访问 https://github.com/LTCatt/PCL
+🌈寻找 Plain Craft Launcher 的朋友请访问 https://github.com/LTCatt/PCL
 
 我们在此对 Hex-Dragon 的历史表达诚挚的敬意
 
